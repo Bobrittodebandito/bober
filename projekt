@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sk">
+  <head>
+    <meta charset="UTF-8">
+    <title>Antivírusový program</title>
+  </head>
+  <body bgcolor="red">
+
+    <h1 style="font-family:Linux Libertine G; font-size:150%; text-align:center; color:green;">
+      Čo je to antivírusový program
+    </h1>
+
+    <h2 style="font-size:150%; font-family:Linux Libertine G; color:blue;">
+      História
+    </h2>
+
+    <h2 style="font-size:150%; font-family:Linux Libertine G; color:blue;">
+      Ako funguje antivírus
+    </h2>
+
+    <h2 style="font-size:150%; font-family:Linux Libertine G; color:blue;">
+      Príklady antivírusov
+    </h2>
+
+    <h2 style="font-size:150%; font-family:Linux Libertine G; color:blue;">
+      Prečo je antivírus dôležitý?
+    </h2>
+
+  </body>
+</html>
